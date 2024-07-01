@@ -1,0 +1,44 @@
+[
+    {
+        "nombre": "Notebook 1",
+        "marca": "Marca A",
+        "precio": 749990,
+        "img": "imgs/notebook-1.jpg",
+        "id": "1"
+    },
+    {
+        "nombre": "Notebook 2",
+        "marca": "Marca B",
+        "precio": 674990,
+        "img": "imgs/notebook-2.jpg",
+        "id": "2"
+    },
+    {
+        "nombre": "Notebook 3",
+        "marca": "Marca C",
+        "precio": 829990,
+        "img": "imgs/notebook-3.jpg",
+        "id": "3"
+    },
+    {
+        "nombre": "Notebook 4",
+        "marca": "Marca D",
+        "precio": 599990,
+        "img": "imgs/notebook-4.jpg",
+        "id": "4"
+    },
+    {
+        "nombre": "Notebook 5",
+        "marca": "Marca E",
+        "precio": 899990,
+        "img": "imgs/notebook-5.jpg",
+        "id": "5"
+    },
+    {
+        "nombre": "Notebook 6",
+        "marca": "Marca F",
+        "precio": 674900,
+        "img": "imgs/notebook-6.jpg",
+        "id": "6"
+    }
+]
