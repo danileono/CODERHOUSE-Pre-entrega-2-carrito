@@ -40,5 +40,18 @@
         "precio": 674900,
         "img": "imgs/notebook-6.jpg",
         "id": "6"
+    },    {
+        "nombre": "Notebook 7",
+        "marca": "Marca G",
+        "precio": 749990,
+        "img": "imgs/notebook-1.jpg",
+        "id": "7"
+    },
+    {
+        "nombre": "Notebook 8",
+        "marca": "Marca H",
+        "precio": 674990,
+        "img": "imgs/notebook-2.jpg",
+        "id": "8"
     }
 ]

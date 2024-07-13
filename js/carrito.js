@@ -19,7 +19,7 @@ document.addEventListener('DOMContentLoaded', function() {
             carrito.forEach(notebook => {
                 if (notebook) {
                     const notebookHTML = `
-                        <div class="col-lg-4 col-md-6 mb-4">
+                        <div class="col-lg-3 col-md-6 text-center mb-3">
                             <div class="card h-100">
                                 <img class="card-img-top" src="${notebook.img}" alt="${notebook.nombre}">
                                 <div class="card-body">
